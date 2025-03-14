@@ -1,3 +1,4 @@
+
 .header {
 background-color: lightpink;
 padding: 20px;
@@ -30,3 +31,35 @@ ul {
   gap: 10px;
   margin: auto;
 }
+=======
+
+.header {
+  background-color: palevioletred;
+  padding: 20px;
+}
+
+h1 {
+  text-shadow: 2px 2px 2px gray;
+  justify-content: center;
+}
+
+p {
+  font-size: 18px;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  border-radius: 20px;
+  box-shadow: 10px 10px 10px;
+  align-items: center;
+  background-color: rgb(233, 163, 174);
+  margin: 10px 550px 200px;
+}
+
+
+
